@@ -1,0 +1,42 @@
+.h1 {
+    color: #48B9b6;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.list {
+    color: #028a0f;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+div{
+    background-color: #E0F3F7;
+    display: inline-block;
+    margin: 8px;
+    text-align: center;
+    padding: 8px;
+}
+
+img{
+    margin: 8px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.apple-pic {
+    height: 250px;
+    width: auto;
+}
+
+.ramen-pic {
+    width: 350px;
+    height: auto;
+}
+
+.blackberry-pic {
+    width: 300px;
+    height: auto;
+}
